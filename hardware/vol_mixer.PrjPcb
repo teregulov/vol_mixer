@@ -116,6 +116,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TDUTAEFQ
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for vol_mixer\Design Rule Check - PCB.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -1153,6 +1157,12 @@ SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+
+[NetInfos]
+Net1=NetName=3V3|NetColor=clFuchsia
+Net2=NetName=5V|NetColor=clRed
+Net3=NetName=GND|NetColor=clBlue
+Net4=NetName=V_IN|NetColor=$00794DA6
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
